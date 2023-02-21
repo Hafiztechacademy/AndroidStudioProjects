@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasbeeh Counter - Daily Zikir</string>
+    <string name="tvDisplay">0</string>
+    <string name="addButton">Start</string>
+    <string name="subButton">Back</string>
+    <string name="resetButton">Reset</string>
+</resources>
